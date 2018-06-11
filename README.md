@@ -1,0 +1,2 @@
+# Hyspree
+HyringSpree database configuration
